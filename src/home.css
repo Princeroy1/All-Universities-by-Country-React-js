@@ -1,0 +1,22 @@
+body {
+    min-height: 100vh;
+    /* background-image: url('https://unsplash.com/photos/8CqDvPuo_kI'); */
+    min-height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.example {
+    width: 100%
+}
+
+.display-4 {
+    color: rgb(29, 17, 17);
+    font-size: 100;
+    font: bold;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
