@@ -6,12 +6,12 @@
 
 ## Display 1
  display view of web page 
- ![view](pic2.png)
+ ![view](MY-APP/pic2.png)
  
  
 ## Display 2
  display view of web page 
- ![view](pic1.png)
+ ![view](MY-APP/pic1.png)
 
 # Getting Started with Create React App
 
