@@ -1,3 +1,18 @@
+# Search All Universities With Country Name 
+
+## Features
+ -Select Country name and see All universities of country 
+
+
+## Display 1
+ display view of web page 
+ ![view](pic2.png)
+ 
+ 
+## Display 2
+ display view of web page 
+ ![view](pic1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -64,6 +79,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+
+# Contact Developed by 
+  https://github.com/Princeroy1/Django-Currency-Converter, Abdul Rouf, and abdulrouf8010@gmail.com
 
 ### `npm run build` fails to minify
 
