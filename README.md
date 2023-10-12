@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Search All Universities With Country Name 
 
 ## Features
@@ -8,14 +7,14 @@
 
 ## Display 1
  display view of web page 
- ![view](MY-APP/pic2.png)
+ ![view](pic2.png)
  
  
 ## Display 2
  display view of web page 
- ![view](MY-APP/pic1.png)
+ ![view](pic1.png)
 
->>>>>>> d412f8721dbd96a892c9fbe1d6bc866b494028ef
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -83,13 +82,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-<<<<<<< HEAD
-=======
+
+
+
+
+### `npm run build` fails to minify
+
+[https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
 # Contact Developed by 
   https://github.com/Princeroy1/Django-Currency-Converter, Abdul Rouf, and abdulrouf8010@gmail.com
-
->>>>>>> d412f8721dbd96a892c9fbe1d6bc866b494028ef
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
